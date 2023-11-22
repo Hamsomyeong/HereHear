@@ -32,24 +32,24 @@
         <img src="https://avatars.githubusercontent.com/ksykma" height="140px" width="140px" /> </td>
         <td height="140px" align="center"> <a href="https://github.com/seolhh">
         <img src="https://avatars.githubusercontent.com/seolhh" height="140px" width="140px" /> </td>
-        <td height="140px" align="center"><a href="https://github.com/ssh5212">
+        <td height="140px" align="center"> <a href="https://github.com/ssh5212">
         <img src="https://avatars.githubusercontent.com/ssh5212" height="140px" width="140px" /> </td>
     </tr>
     <tr>
-        <td align="center"> 👑김주하 </a></td>
-        <td align="center"> 송찬환 </a></td>
-        <td align="center"> 함소명 </a> </td>
-        <td align="center"> 김서영 </a> </td>
-        <td align="center"> 설혜현 </a></td>
-        <td align="center"> 신승헌 </a></td>
+        <td align="center"><a href="https://github.com/Holdm2t1ght"> 👑김주하 </a></td>
+        <td align="center"><a href="https://github.com/cksghks89"> 송찬환 </a></td>
+        <td align="center"><a href="https://github.com/Hamsomyeong"> 함소명 </a> </td>
+        <td align="center"><a href="https://github.com/ksykma"> 김서영 </a> </td>
+        <td align="center"><a href="https://github.com/seolhh"> 설혜현 </a></td>
+        <td align="center"><a href="https://github.com/ssh5212"> 신승헌 </a></td>
     </tr>
     <tr>
-        <td align="center">Leader <br/>BackEnd </td>
-        <td align="center">Backend <br/>WearOS </td>
-        <td align="center">Backend <br/>Infra </td>
-        <td align="center">Backend <br/>Infra </td>
-        <td align="center">Frontend, Design </td>
-        <td align="center">Backend <br/>Infra </td>
+        <td align="center">Backend <br> Infra </td>
+        <td align="center">Backend <br> WearOS </td>
+        <td align="center">Backend <br> SSE </td>
+        <td align="center">Frontend <br>Design </td>
+        <td align="center">Frontend <br> Design </td>
+        <td align="center">Frontend <br> Design </td>
     </tr>
 </table>
 <br/>
@@ -147,16 +147,16 @@
 </details>
 <br/>
 
-## **4. 주요 기능**
+# 💘 주요 기능
 <div markdown="1">
 <table>
 <tr> 
-    <td> <img width="250px" src="https://github.com/Hamsomyeong/Hamsomyeong/assets/79500779/7b93106f-1df7-4d0c-ae25-1ed056991042"> </td>
-    <td> <img width="250px" src="https://github.com/Hamsomyeong/Hamsomyeong/assets/79500779/ae82ca06-a06d-4d7c-b933-4629009a3580"> </td>
+    <td align="center"> <img width="250px" src="https://github.com/Hamsomyeong/Hamsomyeong/assets/79500779/7b93106f-1df7-4d0c-ae25-1ed056991042"> </td>
+    <td align="center"> <img width="250px" src="https://github.com/Hamsomyeong/Hamsomyeong/assets/79500779/ae82ca06-a06d-4d7c-b933-4629009a3580"> </td>
 </tr>
 <tr> 
-    <td>지도(메인 화면)</td>
-    <td>음악 등록</td>
+    <td align="center" >지도(메인 화면)</td>
+    <td align="center" >음악 등록</td>
 </tr>
 <tr> 
     <td>
@@ -176,12 +176,12 @@
     </td>
 </tr>
 <tr> 
-    <td> <img width="250px" src="https://github.com/Hamsomyeong/Hamsomyeong/assets/79500779/51c48bab-9be8-4354-aefa-1b30c7f77e0e"> </td>
-    <td> <img width="250px" src="https://github.com/Hamsomyeong/Hamsomyeong/assets/79500779/6a35fb04-3885-4e6e-9b13-a136b6aad38f"> </td>
+    <td align="center"> <img width="250px" src="https://github.com/Hamsomyeong/Hamsomyeong/assets/79500779/51c48bab-9be8-4354-aefa-1b30c7f77e0e"> </td>
+    <td align="center"> <img width="250px" src="https://github.com/Hamsomyeong/Hamsomyeong/assets/79500779/6a35fb04-3885-4e6e-9b13-a136b6aad38f"> </td>
 </tr>
 <tr> 
-    <td> 유튜브 음악 듣기 </td>
-    <td> 유튜브 재생목록 추가 </td>
+    <td align="center"> 유튜브 음악 듣기 </td>
+    <td align="center"> 유튜브 재생목록 추가 </td>
     
 </tr>
 <tr> 
@@ -194,12 +194,12 @@
     </td>
 </tr>
 <tr> 
-    <td> <img width="250px" src="https://github.com/Hamsomyeong/Hamsomyeong/assets/79500779/0899e3aa-8b27-44fa-9d87-8b12e1590f70"></td>
-    <td> <img width="250px" src="https://github.com/Hamsomyeong/Hamsomyeong/assets/79500779/095318fd-9486-46c8-adfe-80d2a6267be8"> </td>
+    <td align="center"> <img width="250px" src="https://github.com/Hamsomyeong/Hamsomyeong/assets/79500779/0899e3aa-8b27-44fa-9d87-8b12e1590f70"></td>
+    <td align="center"> <img width="250px" src="https://github.com/Hamsomyeong/Hamsomyeong/assets/79500779/095318fd-9486-46c8-adfe-80d2a6267be8"> </td>
 </tr>
 <tr> 
-    <td> Spotify 인앱 재생 </td>
-    <td> 전체 통계 </td>
+    <td align="center"> Spotify 인앱 재생 </td>
+    <td align="center"> 전체 통계 </td>
 </tr>
 <tr> 
     <td>
@@ -216,47 +216,47 @@
 </div>
 
 
-## **e. 기타 기능**
+# 🎊 기타 기능
 
 <details>
 <summary>기타 기능 보기</summary>
 <div markdown="1">
 <table>
     <tr> 
-        <td> <img width="250px" src="https://github.com/ssh5212/TIL/assets/26498125/e8fc507d-d674-44db-a41c-262cf5e13be0"> </td>
-        <td> <img width="250px" src="https://github.com/ssh5212/TIL/assets/26498125/23532791-8cd7-437a-85ea-ed1af7ad167b"> </td>
+        <td align="center"> <img width="250px" src="https://github.com/ssh5212/TIL/assets/26498125/e8fc507d-d674-44db-a41c-262cf5e13be0"> </td>
+        <td align="center"> <img width="250px" src="https://github.com/ssh5212/TIL/assets/26498125/23532791-8cd7-437a-85ea-ed1af7ad167b"> </td>
     </tr>
     <tr> 
-        <td> 온보딩페이지 </td>
-        <td> 팔로우 </td>
+        <td align="center"> 온보딩페이지 </td>
+        <td align="center"> 팔로우 </td>
     </tr>
     <tr> 
-        <td> 처음 사용하는 사용자를 위해 이미지와 함께 서비스 설명 </td>
-        <td> 팔로워/팔로잉 인원 목록 확인 가능, 토글 버튼으로 각 페이지에서 적용/해제 기능 </td>
+        <td> 1. 처음 사용하는 사용자를 위해 이미지와 함께 서비스 설명 </td>
+        <td> 1. 팔로워/팔로잉 인원 목록 확인 가능, 토글 버튼으로 각 페이지에서 적용/해제 기능 </td>
     </tr>
     <tr> 
-        <td> <img width="250px" src="https://github.com/ssh5212/TIL/assets/26498125/86aa4e06-f1f6-4bad-8d98-ab69a95ca34f"> </td>
-        <td> <img width="250px" src="https://github.com/ssh5212/TIL/assets/26498125/0d487523-7bdc-4b76-ac69-d29274f0e968"> </td>
+        <td align="center"> <img width="250px" src="https://github.com/ssh5212/TIL/assets/26498125/86aa4e06-f1f6-4bad-8d98-ab69a95ca34f"> </td>
+        <td align="center"> <img width="250px" src="https://github.com/ssh5212/TIL/assets/26498125/0d487523-7bdc-4b76-ac69-d29274f0e968"> </td>
     </tr>
     <tr> 
-        <td> 좋아요한 노래 </td>
-        <td> 등록한 노래 </td>
+        <td align="center"> 좋아요한 노래 </td>
+        <td align="center"> 등록한 노래 </td>
     </tr>
         <tr> 
-        <td> 음악 상세 페이지에 좋아요했던 노래 목록 출력 </td>
-        <td> 본인이 등록한 노래 출력 </td>
+        <td> 1. 음악 상세 페이지에 좋아요했던 노래 목록 출력 </td>
+        <td> 1. 본인이 등록한 노래 출력 </td>
     </tr>
     <tr> 
-        <td> <img width="250px" src="https://github.com/ssh5212/TIL/assets/26498125/78a4c0bd-6153-4d3b-b2ad-8bc776b4a9d5"> </td>
-        <td> <img width="250px" src="https://github.com/ssh5212/TIL/assets/26498125/61b43fa4-2ca7-44e7-848e-29c1d679060c"></img> </td>
+        <td align="center"> <img width="250px" src="https://github.com/ssh5212/TIL/assets/26498125/78a4c0bd-6153-4d3b-b2ad-8bc776b4a9d5"> </td>
+        <td align="center"> <img width="250px" src="https://github.com/ssh5212/TIL/assets/26498125/61b43fa4-2ca7-44e7-848e-29c1d679060c"></img> </td>
     </tr>
     <tr> 
-        <td> 뱃지 </td>
-        <td> 음악 노트 </td>
+        <td align="center"> 뱃지 </td>
+        <td align="center"> 음악 노트 </td>
     </tr>
         <tr> 
-        <td> 사용자가 서비스를 이용하면서 특정 이벤트 조건을 달성하면 뱃지를 제공 </td>
-        <td> 사용자가 업로드한 노래의 좋아요 수, 들은 노래 데이터를를 기반으로 한 통계를 출력 </td>
+        <td> 1. 사용자가 서비스를 이용하면서 특정 이벤트 조건을 달성하면 뱃지를 제공 </td>
+        <td> 1. 사용자가 업로드한 노래의 좋아요 수, 들은 노래 데이터를를 기반으로 한 통계를 출력 </td>
     </tr>
 </table>
 
@@ -275,71 +275,71 @@
 
 <table>
     <tr> 
-        <td> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/4dff8a06-59db-4bdb-b175-741f83ebcbc5" width="250px"> </td>
-        <td> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/684254d5-21cd-486c-8d7e-5eeb75f679bf" width="250px"> </td>
+        <td align="center"> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/4dff8a06-59db-4bdb-b175-741f83ebcbc5" width="250px"> </td>
+        <td align="center"> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/684254d5-21cd-486c-8d7e-5eeb75f679bf" width="250px"> </td>
     </tr>
     <tr> 
-        <td> 인증 절차 (코드입력) </td>
-        <td> 지도 (메인 화면) </td>
+        <td align="center"> 인증 절차 (코드입력) </td>
+        <td align="center"> 지도 (메인 화면) </td>
     </tr>
     <tr> 
         <td>
-            1. 실행시 인증코드 입력 화면 표시 </br>
-            2. 앱 로그인 -> 설정 -> 핀 번호 발급 에서 출력된 코드 입력 </br>
+            1. 실행시 인증코드 입력 화면 표시 <br>
+            2. 앱 로그인 -> 설정 -> 핀 번호 발급 에서 출력된 코드 입력 <br>
             3. 최초 로그인 후 입력코드를 파일로 저장하여 자동 로그인
         </td>
         <td>
-            4. 메인 화면 진입시 Google Maps에 등록된 음악을 마커로 표시 </br>
-            5. 하단 리스트, 마이페이지 버튼을 통해 이동 가능
+            1. 메인 화면 진입시 Google Maps에 등록된 음악을 마커로 표시 <br>
+            2. 하단 리스트, 마이페이지 버튼을 통해 이동 가능
         </td>
     </tr>
     <tr> 
-        <td> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/17e6a32b-a200-42b9-871c-bc24be5e29bf" width="250px"> </td>
-        <td> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/910ee9c2-b640-4ec8-8012-c90c34aeecaf" width="250px"> </td>
+        <td align="center"> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/17e6a32b-a200-42b9-871c-bc24be5e29bf" width="250px"> </td>
+        <td align="center"> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/910ee9c2-b640-4ec8-8012-c90c34aeecaf" width="250px"> </td>
     </tr>
     <tr> 
-        <td> 음악 조회 </td>
-        <td> 음악 상세 정보 </td>
+        <td align="center"> 음악 조회 </td>
+        <td align="center"> 음악 상세 정보 </td>
     </tr>
     <tr> 
         <td>
-            6. 메인화면 하단의 리스트 버튼을 클릭  </br>
-            7. 반경 2km 이내에 등록된 음악 리스트를 스와이프를 통해 넘길 수 있음
+            1. 메인화면 하단의 리스트 버튼을 클릭  <br>
+            2. 반경 2km 이내에 등록된 음악 리스트를 스와이프를 통해 넘길 수 있음
         </td>
         <td>
-            8. 음악 조회 페이지에서 하단으로 스크롤 </br>
-            9. 등록한 사용자의 정보와 코멘트가 표시
-            10. 음악 재생 버튼 클릭시 spotify 앱으로 이동
-        </td>
-    </tr>
-    <tr> 
-        <td> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/1d03ae30-e3e4-4529-9970-cb074db630aa" width="250px"> </td>
-        <td> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/0502c52f-c892-4aa8-898d-ede024fcddf3" width="250px"> </td>
-    </tr>
-    <tr> 
-        <td> 마이페이지 </td>
-        <td> 최근 들은 노래 목록 </td>
-    </tr>
-    <tr> 
-        <td>
-            11. 메인화면 하단의 마이페이지 버튼 클릭  </br>
-            12. 개인 정보 및 기록에 대한 정보 열람 가능
-        </td>
-        <td>
-            13. 마이페이지 -> 최근 들은 노래 버튼 클릭 </br>
-            14. 최근 재생한 음악의 목록을 조회 가능
+            1. 음악 조회 페이지에서 하단으로 스크롤 <br>
+            2. 등록한 사용자의 정보와 코멘트가 표시 <br>
+            3. 음악 재생 버튼 클릭시 spotify 앱으로 이동
         </td>
     </tr>
     <tr> 
-        <td> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/860c9186-ac05-4370-aa30-b3a95f303a59" width="250px"> </td>
+        <td align="center"> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/1d03ae30-e3e4-4529-9970-cb074db630aa" width="250px"> </td>
+        <td align="center"> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/0502c52f-c892-4aa8-898d-ede024fcddf3" width="250px"> </td>
     </tr>
     <tr> 
-        <td> 좋아요 노래 목록 </td>
+        <td align="center"> 마이페이지 </td>
+        <td align="center"> 최근 들은 노래 목록 </td>
     </tr>
     <tr> 
         <td>
-            15. 마이페이지 -> 좋아요 노래 목록 버튼 클릭  </br>
-            16. 좋아요 한 노래의 목록을 조회 및 좋아요 취소 가능
+            1. 메인화면 하단의 마이페이지 버튼 클릭  <br>
+            2. 개인 정보 및 기록에 대한 정보 열람 가능
+        </td>
+        <td>
+            1. 마이페이지 -> 최근 들은 노래 버튼 클릭 <br>
+            2. 최근 재생한 음악의 목록을 조회 가능
+        </td>
+    </tr>
+    <tr> 
+        <td align="center"> <img src="https://github.com/cksghks89/Algorithm/assets/23161060/860c9186-ac05-4370-aa30-b3a95f303a59" width="250px"> </td>
+    </tr>
+    <tr> 
+        <td align="center"> 좋아요 노래 목록 </td>
+    </tr>
+    <tr> 
+        <td>
+            1. 마이페이지 -> 좋아요 노래 목록 버튼 클릭  <br>
+            2. 좋아요 한 노래의 목록을 조회 및 좋아요 취소 가능
         </td>
     </tr>
 </table>
